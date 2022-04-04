@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+#Contacto{
+    background-image: url(../imagenes/fondo-contacto.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#proyecto{
+    background-image: url(../imagenes/fondo-proyectos.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.nav-link.active{
+    border: 1px solid #e20000;
+    border-radius: 25px;
+}
+h1{
+    color: #e20000;
+    font-size: 36px;
+}
+p{
+    color: #6a6a6a;
+    font-size: 16px;
+}
+textarea{
+height: 150px;
+}
+.form-control{
+    border-radius: 14px;
+}
+.btn-blanco{
+    background-color:white;
+    color: #370a6d;
+    border-radius: 14px;
+}
+
+.btn-blanco:hover{
+    color: white;
+    background-color: #370a6d;
+}
+.btn-rojo{
+    background-color:#e20000;
+    color:white !important;
+    font-weight: 100px;
+}
+.btn-rojo a {
+    color: white !important;
+}
+
+.btn-rojo:hover{
+    color:white !important;
+    background-color:#370a6d;
+
+
+}
+.link {
+    color:#e20000;
+}
+.link a {
+    color:#e20000;
+}
+.btn{
+border-radius: 14px;
+background-color: #e20000;
+color: white;
+
+}
+.proyecto h2{
+    font-size: 16px;
+    color: white;
+    text-transform: uppercase;
+    background-color: #e20000;
+
+}
+.proyecto p{
+    font-size: 14px;
+    height: 148px;
+
+}
+.proyecto{
+    border: 1px solid #eee;
+    background-color: white;
+}
+.proyecto img {
+    height: 208px;
+}
+footer a {
+    color:#370a6d;
+}
+footer, footer a{
+    color:#370a6d;
+    font-weight: 100px;
+}
+footer .fa-giphub {
+    font-size: 30px;
+    color: white;
+}
+.Whatsapp{
+    position: fixed;
+    bottom: 0px;
+    right: 70px;
+    background-color: #370a6d;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+.fa-whasapp:hover{
+    font-size: 50px;
+    color: white;
+    background-color: white;
+}
+.Redes{
+    font-size: 30px;
+    color:white;
+    text-align: center;
+}
+@media (max-width :750px) {
+    #Contacto{
+        background-image: url(../imagenes/fondo-proyectos.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+
+}

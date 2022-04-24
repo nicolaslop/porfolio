@@ -7,12 +7,16 @@ body{
     background-repeat: no-repeat;
     background-size: 100%;
 }
-#proyecto{
+#proyecto {
     background-image: url(../imagenes/fondo-proyectos.png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
-
+#Inicio {
+    background-image: url(../imagenes/fondo-contacto.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
 .nav-link.active{
     border: 1px solid #e20000;
     border-radius: 25px;
@@ -54,6 +58,20 @@ height: 150px;
     color:white !important;
     background-color:#370a6d;
 
+
+}
+.cohete{
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+}
+.p-1 {
+border-radius: 5px;
+}
+.btn-cohete{
+    color:black;
+    background-color: white;
+    border-radius: 5px;
 
 }
 .link {

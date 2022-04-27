@@ -38,6 +38,9 @@ p{
     height:300px;
     border-radius:150px;
 }
+.formacion{
+    color: #e20000;
+}
 textarea{
 height: 150px;
 }

@@ -2,6 +2,11 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
+#Inicio {
+    background-image: url(../imagenes/fondo-contacto.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
 #Contacto{
     background-image: url(../imagenes/fondo-contacto.png);
     background-repeat: no-repeat;
@@ -12,11 +17,7 @@ body{
     background-repeat: no-repeat;
     background-size: 100%;
 }
-#Inicio {
-    background-image: url(../imagenes/fondo-contacto.png);
-    background-repeat: no-repeat;
-    background-size: 100%;
-}
+
 .nav-link.active{
     border: 1px solid #e20000;
     border-radius: 25px;
@@ -70,7 +71,6 @@ height: 150px;
     height: 200px;
     width: 200px;
     margin-left: 500px;
-    vertical-align:middle;
 }
 .p-1 {
 border-radius: 5px;

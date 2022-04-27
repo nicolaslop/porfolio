@@ -33,8 +33,10 @@ p{
     color: #6a6a6a;
     font-size: 16px;
 }
-.perfil{
-    border-radius: 1px;
+.imgRedonda{
+    width:300px;
+    height:300px;
+    border-radius:150px;
 }
 textarea{
 height: 150px;

@@ -75,6 +75,10 @@ height: 150px;
 .p-1 {
 border-radius: 5px;
 }
+#linea1 hr{
+    border: white;
+    border-style: double;
+}
 .btn-cohete{
     color:black;
     background-color: white;

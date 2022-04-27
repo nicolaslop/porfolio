@@ -38,6 +38,9 @@ p{
     height:300px;
     border-radius:150px;
 }
+.img-exp{
+    height: 150px;
+}
 .formacion{
     color: #e20000;
 }
@@ -85,8 +88,8 @@ border-radius: 5px;
     border-style: double;
 }
 .btn-cohete{
-    color:black;
-    background-color: white;
+    color:white;
+    background-color:#e20000;
     border-radius: 5px;
 
 }

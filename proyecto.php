@@ -31,7 +31,7 @@
                             <a class="nav-link py-1 px-3 px-sm-4 " href="sobre-mi.php">Sobre Mi</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link py-1 px-3 px-sm-4 active " href="proyecto.html">Proyecto</a>
+                            <a class="nav-link py-1 px-3 px-sm-4 active " href="proyecto.php">Proyecto</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link py-1 px-3 px-sm-4 " href="contacto.php">Contacto</a>

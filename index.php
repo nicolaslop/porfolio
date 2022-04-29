@@ -51,7 +51,7 @@
         <div class="container">
             <div class="row">
                 <div class="cohete col-12 mt-4 text-center pt-20">
-                    <a href="proyectos.html"><img src="imagenes/cohete.svg" alt="cohete"></a>
+                    <a href="proyectos.php"><img src="imagenes/cohete.svg" alt="cohete"></a>
 
                 </div>
                 <div class="container">

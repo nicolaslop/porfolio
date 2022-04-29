@@ -57,7 +57,7 @@
                     </div>
                     <div class="col-sm-3 col-12 mt-4 offset-sm-2">
                         <div class="imgRedonda">
-                            <img src="../porfolio/imagenes/perfil.jfif" alt="nicolas" title="nicolas"
+                            <img src="imagenes/perfil.jfif" alt="nicolas" title="nicolas"
                             class="imgRedonda">
                         </div>
                     </div>
@@ -76,42 +76,42 @@
                             <div class=" px-6 py-2  card mx-0 mb-4 mb-sm-0">
                                 <h3>Javascript</h3>
                                 <img class=" img-fluid d-block mx-auto pt-4 pb-4 text-center" width="60"
-                                    src="../porfolio/imagenes/javascript.jpeg">
+                                    src="imagenes/javascript.jpeg">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-6 py-2 card mx-0 mb-4 mb-sm-0">
                                 <h3>PHP</h3>
                                 <img class=" img-fluid d-block  mx-5 py-4 " width="60"
-                                    src="../porfolio/imagenes/php.jpg" alt="">
+                                    src="imagenes/php.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-4 py-2 card mx-0 mb-4 mb-sm-0">
                                 <h3>HTML5</h3>
                                 <img class="img-fluid d-block mx-auto py-4" width="60"
-                                    src="../porfolio/imagenes/html5.png">
+                                    src="imagenes/html5.png">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="pb-4 pt-2 card mx-0 mb-4 mb-sm-0">
                                 <h3>React.js</h3>
                                 <img class="img-fluid d-block mx-auto py-3" width="60"
-                                    src="../porfolio/imagenes/reacj.png">
+                                    src="imagenes/reacj.png">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-4 pt-3 card mx-0 mb-4 mb-sm-0">
                                 <h3>jQuery</h3>
                                 <img class="img-fluid d-block mx-auto py-4" width="60"
-                                    src="../porfolio/imagenes/jquery.jpg">
+                                    src="imagenes/jquery.jpg">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-2 pt-3 card mx-0 mb-4 mb-sm-0">
                                 <h3>Bootstrap</h3>
                                 <img class="img-fluid d-block mx-auto py-4" width="60"
-                                    src="../porfolio/imagenes/boostrap.png">
+                                    src="imagenes/boostrap.png">
                             </div>
                         </div>
                     </div>
@@ -120,42 +120,42 @@
                             <div class="px-4 pt-3 card mx-0 mb-4 mb-sm-0 ml-3">
                                 <h3>Laravel</h3>
                                 <img class=" img-fluid d-block mx-auto py-4" width="90"
-                                    src="../porfolio/imagenes/laravel.png">
+                                    src="imagenes/laravel.png">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-4 pt-3 card mx-0 mb-4 mb-sm-0">
                                 <h3>MySQL</h3>
                                 <img class=" img-fluid d-block mx-auto py-4" width="60"
-                                    src="../porfolio/imagenes/mysql.png">
+                                    src="imagenes/mysql.png">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-4 pt-3 card mx-0 mb-4 mb-sm-0">
                                 <h3>CSS</h3>
                                 <img class=" img-fluid d-block mx-auto py-4" width="60"
-                                    src="../porfolio/imagenes/css.png">
+                                    src="imagenes/css.png">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-4 pt-3 card mx-0 mb-4 mb-sm-0">
                                 <h3>Git</h3>
                                 <img class="img-fluid d-block mx-auto py-4" width="60"
-                                    src="../porfolio/imagenes/git.png">
+                                    src="imagenes/git.png">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-4 pt-3 card mx-0 mb-4 mb-sm-0">
                                 <h3>Apache</h3>
                                 <img class="img-fluid d-block mx-auto py-4" width="130"
-                                    src="../porfolio/imagenes/Apache.png" alt="">
+                                    src="imagenes/Apache.png" alt="">
                             </div>
                         </div>
                         <div class="col-sm-2 col-6 text-center">
                             <div class="px-1 pt-3 card mx-0 mb-4 mb-sm-0">
                                 <h3>Mercadopago</h3>
                                 <img class="img-fluid d-block mx-auto py-1" width="60"
-                                    src="../porfolio/imagenes/mercado.jpg" alt="">
+                                    src="imagenes/mercado.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -174,7 +174,7 @@
                     <div class="col-12">
                         <div class="row">
                             <div class="col-2 p-5 my-auto d-none d-sm-block px-1">
-                                <img src="../porfolio/imagenes/holding.png"
+                                <img src="imagenes/holding.png"
                                 class="img-exp" title="holding">
                             </div>
                             <div class="col-12- col-sm-10 p-3 ">
@@ -193,7 +193,7 @@
                     <div class="col-12">
                         <div class="row">
                             <div class=" col-2 px-3 my-auto d-none d-sm-block">
-                                <img src="../porfolio/imagenes/sai.png"
+                                <img src="imagenes/sai.png"
                                     class="img-exp" title="sai">
                             </div>
                             <div class="col-12- col-sm-10 px-2">
@@ -216,8 +216,8 @@
                     <div class="col-12 col-sm-6">
                         <div class="row">
                             <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                <img src="../porfolio/imagenes/colegio.jfif" class="img-fluid baw "
-                                    title="depcsuite">
+                                <img src="imagenes/colegio.jfif" class="img-fluid baw "
+                                    title="colegio">
                                 <!-- img-fluid hace que las imagenes o la pagina no se espanda -->
                             </div>
                             <div class="col-12- col-sm-10 p-3">
@@ -238,7 +238,7 @@
                         <div class="col-sm-6 col-12 pb-3 pb-sm-0">
                             <div class="row mr-sm-1 bg-white card-idioma shadow me-sm-1">
                                 <div class="col-4 text-center card py-5">
-                                    <img src="../porfolio/imagenes/idioma.jfif"
+                                    <img src="imagenes/idioma.jfif"
                                     class="img-idiomas" title="idiomas">
                                 </div>
                                 <div class="col-8 p-5">
@@ -252,7 +252,7 @@
                         <div class="col-sm-6 col-12">
                             <div class="row ml-sm-2 bg-white card-idioma shadow ms-sm-1">
                                 <div class="col-4 text-center card">
-                                    <img src="../porfolio/imagenes/hobbis.jfif"
+                                    <img src="imagenes/hobbis.jfif"
                                     class="img-sai" title="sai">
                                 </div>
                                 <div class="col-7 p-5">

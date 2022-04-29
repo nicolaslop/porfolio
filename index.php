@@ -26,16 +26,16 @@
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
                         <li class="nav-item">
                             <a class="nav-link py-1 px-3 px-sm-4 active " aria-current="page"
-                                href="index.html">Inicio</a>
+                                href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link py-1 px-3 px-sm-4 " href="sobre-mi.html">Sobre Mi</a>
+                            <a class="nav-link py-1 px-3 px-sm-4 " href="sobre-mi.php">Sobre Mi</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link py-1 px-3 px-sm-4 " href="proyectos.html">Proyecto</a>
+                            <a class="nav-link py-1 px-3 px-sm-4 " href="proyecto.php">Proyecto</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link py-1 px-3 px-sm-4 " href="contactos.html">Contacto</a>
+                            <a class="nav-link py-1 px-3 px-sm-4 " href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                     <div class="d-flex">

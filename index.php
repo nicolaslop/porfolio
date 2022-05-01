@@ -1,3 +1,7 @@
+<?php
+$pg = "index";
+
+?>
 <!DOCTYPE html>
 <html lang="es">
 

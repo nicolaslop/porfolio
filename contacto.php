@@ -1,3 +1,8 @@
+
+<?php
+$pg = "contacto";
+
+?>
 <!DOCTYPE html>
 <html lang="es">
 

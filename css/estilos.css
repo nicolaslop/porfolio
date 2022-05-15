@@ -17,7 +17,11 @@ body{
     background-repeat: no-repeat;
     background-size: 100%;
 }
-
+#confirmacion-envio {
+    background-image: url(../imagenes/fondo-contacto.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
 .nav-link.active{
     border: 1px solid #e20000;
     border-radius: 25px;

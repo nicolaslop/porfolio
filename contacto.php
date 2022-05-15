@@ -19,10 +19,10 @@ $cuerpo = "nommbre:$nombre <br>
 
 // Para enviar un correo HTML, debe establecerse la cabecera Content-type
 $cabeceras  = 'MIME-Version: 1.0' . "\r\n";
-$cabeceras .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+$cabeceras .= 'Content-type: text/html; charset=UTF-8' . "\r\n";
 
 //enviarlo
-mail($para,$titulo,$cuerpo,$cabecera);
+//mail($para,$titulo,$cuerpo,$cabecera);
 header("lacation:confirmacion-envio.php");
 
 }
